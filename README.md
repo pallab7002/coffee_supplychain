@@ -89,7 +89,7 @@ Your terminal should look something like this:
 
 ![truffle test](images/truffle_migrate.png)
 
-![truffle test](project-6/deployment.txt)
+![Deployment Details](project-6/deployment.txt)
 
 truffle migrate --reset --network goerli
 
@@ -342,7 +342,7 @@ to make the web faster, safer, and more open.
 See also the list of [contributors](https://github.com/your/project/contributors.md) who participated in this project.
 
 
-![truffle test](project-6/deployment.txt)
+![Deployment Details](project-6/deployment.txt)
 
 ## RinkeBy Network
 > Transaction ID:  0x375a7b114286d4bada9d6247879cdfea7e0f45cfa6f8cd83d7a34299cd4f78bb
